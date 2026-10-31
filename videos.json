@@ -1,0 +1,2371 @@
+{
+  "titles": [
+    {
+      "id": "film-001",
+      "category": "film",
+      "title": "Avatar",
+      "year": 2009,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Avatar — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Avatar",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Avatar",
+      "featured": true,
+      "added": "2026-10-02",
+      "video": "https://vidlink.pro/movie/19995",
+      "tmdbId": 19995
+    },
+    {
+      "id": "film-002",
+      "category": "film",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Avengers: Endgame — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Avengers%3A%20Endgame",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Avengers%3A%20Endgame",
+      "featured": false,
+      "added": "2026-09-03",
+      "video": "https://vidlink.pro/movie/299534",
+      "tmdbId": 299534
+    },
+    {
+      "id": "film-003",
+      "category": "film",
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Avengers: Infinity War — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Avengers%3A%20Infinity%20War",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Avengers%3A%20Infinity%20War",
+      "featured": false,
+      "added": "2026-08-04",
+      "video": "https://vidlink.pro/movie/299536",
+      "tmdbId": 299536
+    },
+    {
+      "id": "film-004",
+      "category": "film",
+      "title": "Iron Man",
+      "year": 2008,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Iron Man — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Iron%20Man",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Iron%20Man",
+      "featured": false,
+      "added": "2026-07-05",
+      "video": "https://vidlink.pro/movie/1726",
+      "tmdbId": 1726
+    },
+    {
+      "id": "film-005",
+      "category": "film",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Spider-Man: No Way Home — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Spider-Man%3A%20No%20Way%20Home",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Spider-Man%3A%20No%20Way%20Home",
+      "featured": false,
+      "added": "2026-06-06",
+      "video": "https://vidlink.pro/movie/634649",
+      "tmdbId": 634649
+    },
+    {
+      "id": "film-006",
+      "category": "film",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Spider-Man: Across the Spider-Verse — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Spider-Man%3A%20Across%20the%20Spider-Verse",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Spider-Man%3A%20Across%20the%20Spider-Verse",
+      "featured": false,
+      "added": "2026-05-07",
+      "video": "https://vidlink.pro/movie/569094",
+      "tmdbId": 569094
+    },
+    {
+      "id": "film-007",
+      "category": "film",
+      "title": "The Batman",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Batman — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Batman",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Batman",
+      "featured": false,
+      "added": "2026-04-08",
+      "video": "https://vidlink.pro/movie/414906",
+      "tmdbId": 414906
+    },
+    {
+      "id": "film-008",
+      "category": "film",
+      "title": "Joker",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Joker — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Joker",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Joker",
+      "featured": false,
+      "added": "2026-03-09",
+      "video": "https://vidlink.pro/movie/475557",
+      "tmdbId": 475557
+    },
+    {
+      "id": "film-009",
+      "category": "film",
+      "title": "Inception",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Inception — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Inception",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Inception",
+      "featured": false,
+      "added": "2026-02-10",
+      "video": "https://vidlink.pro/movie/27205",
+      "tmdbId": 27205
+    },
+    {
+      "id": "film-010",
+      "category": "film",
+      "title": "Interstellar",
+      "year": 2014,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Interstellar — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Interstellar",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Interstellar",
+      "featured": false,
+      "added": "2026-11-11",
+      "video": "https://vidlink.pro/movie/157336",
+      "tmdbId": 157336
+    },
+    {
+      "id": "film-011",
+      "category": "film",
+      "title": "Dune",
+      "year": 2021,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Dune — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Dune",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Dune",
+      "featured": false,
+      "added": "2026-10-12",
+      "video": "https://vidlink.pro/movie/438631",
+      "tmdbId": 438631
+    },
+    {
+      "id": "film-012",
+      "category": "film",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Dune: Part Two — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Dune%3A%20Part%20Two",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Dune%3A%20Part%20Two",
+      "featured": false,
+      "added": "2026-09-13",
+      "video": "https://vidlink.pro/movie/693134",
+      "tmdbId": 693134
+    },
+    {
+      "id": "film-013",
+      "category": "film",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Oppenheimer — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Oppenheimer",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Oppenheimer",
+      "featured": false,
+      "added": "2026-08-14",
+      "video": "https://vidlink.pro/movie/872585",
+      "tmdbId": 872585
+    },
+    {
+      "id": "film-014",
+      "category": "film",
+      "title": "Barbie",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Barbie — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Barbie",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Barbie",
+      "featured": false,
+      "added": "2026-07-15",
+      "video": "https://vidlink.pro/movie/346698",
+      "tmdbId": 346698
+    },
+    {
+      "id": "film-015",
+      "category": "film",
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Deadpool & Wolverine — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Deadpool%20%26%20Wolverine",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Deadpool%20%26%20Wolverine",
+      "featured": false,
+      "added": "2026-06-16",
+      "video": "https://vidlink.pro/movie/533535",
+      "tmdbId": 533535
+    },
+    {
+      "id": "film-016",
+      "category": "film",
+      "title": "John Wick",
+      "year": 2014,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "John Wick — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick",
+      "featured": false,
+      "added": "2026-05-17",
+      "video": "https://vidlink.pro/movie/245891",
+      "tmdbId": 245891
+    },
+    {
+      "id": "film-017",
+      "category": "film",
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "John Wick: Chapter 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick%3A%20Chapter%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick%3A%20Chapter%202",
+      "featured": false,
+      "added": "2026-04-18",
+      "video": "https://vidlink.pro/movie/324552",
+      "tmdbId": 324552
+    },
+    {
+      "id": "film-018",
+      "category": "film",
+      "title": "John Wick: Chapter 3",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "John Wick: Chapter 3 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick%3A%20Chapter%203",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick%3A%20Chapter%203",
+      "featured": false,
+      "added": "2026-03-19",
+      "video": "https://vidlink.pro/movie/458156",
+      "tmdbId": 458156
+    },
+    {
+      "id": "film-019",
+      "category": "film",
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "John Wick: Chapter 4 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick%3A%20Chapter%204",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=John%20Wick%3A%20Chapter%204",
+      "featured": false,
+      "added": "2026-02-20",
+      "video": "https://vidlink.pro/movie/603692",
+      "tmdbId": 603692
+    },
+    {
+      "id": "film-020",
+      "category": "film",
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Top Gun: Maverick — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Top%20Gun%3A%20Maverick",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Top%20Gun%3A%20Maverick",
+      "featured": false,
+      "added": "2026-11-21",
+      "video": "https://vidlink.pro/movie/361743",
+      "tmdbId": 361743
+    },
+    {
+      "id": "film-021",
+      "category": "film",
+      "title": "The Matrix",
+      "year": 1999,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Matrix — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Matrix",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Matrix",
+      "featured": false,
+      "added": "2026-10-22",
+      "video": "https://vidlink.pro/movie/603",
+      "tmdbId": 603
+    },
+    {
+      "id": "film-022",
+      "category": "film",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Shawshank Redemption — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Shawshank%20Redemption",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Shawshank%20Redemption",
+      "featured": false,
+      "added": "2026-09-23",
+      "video": "https://vidlink.pro/movie/278",
+      "tmdbId": 278
+    },
+    {
+      "id": "film-023",
+      "category": "film",
+      "title": "The Godfather",
+      "year": 1972,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Godfather — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Godfather",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Godfather",
+      "featured": false,
+      "added": "2026-08-24",
+      "video": "https://vidlink.pro/movie/238",
+      "tmdbId": 238
+    },
+    {
+      "id": "film-024",
+      "category": "film",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Pulp Fiction — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Pulp%20Fiction",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Pulp%20Fiction",
+      "featured": false,
+      "added": "2026-07-25",
+      "video": "https://vidlink.pro/movie/680",
+      "tmdbId": 680
+    },
+    {
+      "id": "film-025",
+      "category": "film",
+      "title": "Fight Club",
+      "year": 1999,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Fight Club — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Fight%20Club",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Fight%20Club",
+      "featured": false,
+      "added": "2026-06-26",
+      "video": "https://vidlink.pro/movie/550",
+      "tmdbId": 550
+    },
+    {
+      "id": "film-026",
+      "category": "film",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Forrest Gump — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Forrest%20Gump",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Forrest%20Gump",
+      "featured": false,
+      "added": "2026-05-27",
+      "video": "https://vidlink.pro/movie/13",
+      "tmdbId": 13
+    },
+    {
+      "id": "film-027",
+      "category": "film",
+      "title": "Titanic",
+      "year": 1997,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Titanic — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Titanic",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Titanic",
+      "featured": false,
+      "added": "2026-04-01",
+      "video": "https://vidlink.pro/movie/597",
+      "tmdbId": 597
+    },
+    {
+      "id": "film-028",
+      "category": "film",
+      "title": "Jurassic Park",
+      "year": 1993,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Jurassic Park — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Jurassic%20Park",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Jurassic%20Park",
+      "featured": false,
+      "added": "2026-03-02",
+      "video": "https://vidlink.pro/movie/329",
+      "tmdbId": 329
+    },
+    {
+      "id": "film-029",
+      "category": "film",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Dark Knight — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Dark%20Knight",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Dark%20Knight",
+      "featured": false,
+      "added": "2026-02-03",
+      "video": "https://vidlink.pro/movie/155",
+      "tmdbId": 155
+    },
+    {
+      "id": "film-030",
+      "category": "film",
+      "title": "The Fellowship of the Ring",
+      "year": 2001,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Fellowship of the Ring — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Fellowship%20of%20the%20Ring",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Fellowship%20of%20the%20Ring",
+      "featured": false,
+      "added": "2026-11-04",
+      "video": "https://vidlink.pro/movie/120",
+      "tmdbId": 120
+    },
+    {
+      "id": "film-031",
+      "category": "film",
+      "title": "The Two Towers",
+      "year": 2002,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Two Towers — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Two%20Towers",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Two%20Towers",
+      "featured": false,
+      "added": "2026-10-05",
+      "video": "https://vidlink.pro/movie/121",
+      "tmdbId": 121
+    },
+    {
+      "id": "film-032",
+      "category": "film",
+      "title": "The Return of the King",
+      "year": 2003,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Return of the King — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Return%20of%20the%20King",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Return%20of%20the%20King",
+      "featured": false,
+      "added": "2026-09-06",
+      "video": "https://vidlink.pro/movie/122",
+      "tmdbId": 122
+    },
+    {
+      "id": "film-033",
+      "category": "film",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Harry Potter and the Sorcerer's Stone — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone",
+      "featured": false,
+      "added": "2026-08-07",
+      "video": "https://vidlink.pro/movie/671",
+      "tmdbId": 671
+    },
+    {
+      "id": "film-034",
+      "category": "film",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Harry Potter and the Chamber of Secrets — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Chamber%20of%20Secrets",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Chamber%20of%20Secrets",
+      "featured": false,
+      "added": "2026-07-08",
+      "video": "https://vidlink.pro/movie/672",
+      "tmdbId": 672
+    },
+    {
+      "id": "film-035",
+      "category": "film",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Harry Potter and the Prisoner of Azkaban — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban",
+      "featured": false,
+      "added": "2026-06-09",
+      "video": "https://vidlink.pro/movie/673",
+      "tmdbId": 673
+    },
+    {
+      "id": "film-036",
+      "category": "film",
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Harry Potter and the Goblet of Fire — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Goblet%20of%20Fire",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Goblet%20of%20Fire",
+      "featured": false,
+      "added": "2026-05-10",
+      "video": "https://vidlink.pro/movie/674",
+      "tmdbId": 674
+    },
+    {
+      "id": "film-037",
+      "category": "film",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "year": 2007,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Harry Potter and the Order of the Phoenix — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix",
+      "featured": false,
+      "added": "2026-04-11",
+      "video": "https://vidlink.pro/movie/675",
+      "tmdbId": 675
+    },
+    {
+      "id": "film-038",
+      "category": "film",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Harry Potter and the Half-Blood Prince — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Half-Blood%20Prince",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Harry%20Potter%20and%20the%20Half-Blood%20Prince",
+      "featured": false,
+      "added": "2026-03-12",
+      "video": "https://vidlink.pro/movie/767",
+      "tmdbId": 767
+    },
+    {
+      "id": "film-039",
+      "category": "film",
+      "title": "Deathly Hallows: Part 1",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Deathly Hallows: Part 1 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Deathly%20Hallows%3A%20Part%201",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Deathly%20Hallows%3A%20Part%201",
+      "featured": false,
+      "added": "2026-02-13",
+      "video": "https://vidlink.pro/movie/12444",
+      "tmdbId": 12444
+    },
+    {
+      "id": "film-040",
+      "category": "film",
+      "title": "Deathly Hallows: Part 2",
+      "year": 2011,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Deathly Hallows: Part 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Deathly%20Hallows%3A%20Part%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Deathly%20Hallows%3A%20Part%202",
+      "featured": false,
+      "added": "2026-11-14",
+      "video": "https://vidlink.pro/movie/12445",
+      "tmdbId": 12445
+    },
+    {
+      "id": "film-041",
+      "category": "film",
+      "title": "Frozen",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Frozen — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Frozen",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Frozen",
+      "featured": false,
+      "added": "2026-10-15",
+      "video": "https://vidlink.pro/movie/109445",
+      "tmdbId": 109445
+    },
+    {
+      "id": "film-042",
+      "category": "film",
+      "title": "Moana",
+      "year": 2016,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Moana — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Moana",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Moana",
+      "featured": false,
+      "added": "2026-09-16",
+      "video": "https://vidlink.pro/movie/277834",
+      "tmdbId": 277834
+    },
+    {
+      "id": "film-043",
+      "category": "film",
+      "title": "Inside Out 2",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Inside Out 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Inside%20Out%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Inside%20Out%202",
+      "featured": false,
+      "added": "2026-08-17",
+      "video": "https://vidlink.pro/movie/1022789",
+      "tmdbId": 1022789
+    },
+    {
+      "id": "film-044",
+      "category": "film",
+      "title": "Toy Story",
+      "year": 1995,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Toy Story — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Toy%20Story",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Toy%20Story",
+      "featured": false,
+      "added": "2026-07-18",
+      "video": "https://vidlink.pro/movie/862",
+      "tmdbId": 862
+    },
+    {
+      "id": "film-045",
+      "category": "film",
+      "title": "Toy Story 3",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Toy Story 3 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Toy%20Story%203",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Toy%20Story%203",
+      "featured": false,
+      "added": "2026-06-19",
+      "video": "https://vidlink.pro/movie/10193",
+      "tmdbId": 10193
+    },
+    {
+      "id": "film-046",
+      "category": "film",
+      "title": "Coco",
+      "year": 2017,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Coco — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Coco",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Coco",
+      "featured": false,
+      "added": "2026-05-20",
+      "video": "https://vidlink.pro/movie/354912",
+      "tmdbId": 354912
+    },
+    {
+      "id": "film-047",
+      "category": "film",
+      "title": "Soul",
+      "year": 2020,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Soul — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Soul",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Soul",
+      "featured": false,
+      "added": "2026-04-21",
+      "video": "https://vidlink.pro/movie/508442",
+      "tmdbId": 508442
+    },
+    {
+      "id": "film-048",
+      "category": "film",
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Kung Fu Panda — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda",
+      "featured": false,
+      "added": "2026-03-22",
+      "video": "https://vidlink.pro/movie/9502",
+      "tmdbId": 9502
+    },
+    {
+      "id": "film-049",
+      "category": "film",
+      "title": "Kung Fu Panda 2",
+      "year": 2011,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Kung Fu Panda 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda%202",
+      "featured": false,
+      "added": "2026-02-23",
+      "video": "https://vidlink.pro/movie/49444",
+      "tmdbId": 49444
+    },
+    {
+      "id": "film-050",
+      "category": "film",
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Kung Fu Panda 3 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda%203",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda%203",
+      "featured": false,
+      "added": "2026-11-24",
+      "video": "https://vidlink.pro/movie/140300",
+      "tmdbId": 140300
+    },
+    {
+      "id": "film-051",
+      "category": "film",
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Kung Fu Panda 4 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda%204",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Kung%20Fu%20Panda%204",
+      "featured": false,
+      "added": "2026-10-25",
+      "video": "https://vidlink.pro/movie/1011985",
+      "tmdbId": 1011985
+    },
+    {
+      "id": "film-052",
+      "category": "film",
+      "title": "Shrek",
+      "year": 2001,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Shrek — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek",
+      "featured": false,
+      "added": "2026-09-26",
+      "video": "https://vidlink.pro/movie/808",
+      "tmdbId": 808
+    },
+    {
+      "id": "film-053",
+      "category": "film",
+      "title": "Shrek 2",
+      "year": 2004,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Shrek 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek%202",
+      "featured": false,
+      "added": "2026-08-27",
+      "video": "https://vidlink.pro/movie/809",
+      "tmdbId": 809
+    },
+    {
+      "id": "film-054",
+      "category": "film",
+      "title": "Shrek the Third",
+      "year": 2007,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Shrek the Third — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek%20the%20Third",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek%20the%20Third",
+      "featured": false,
+      "added": "2026-07-01",
+      "video": "https://vidlink.pro/movie/810",
+      "tmdbId": 810
+    },
+    {
+      "id": "film-055",
+      "category": "film",
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Shrek Forever After — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek%20Forever%20After",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Shrek%20Forever%20After",
+      "featured": false,
+      "added": "2026-06-02",
+      "video": "https://vidlink.pro/movie/10192",
+      "tmdbId": 10192
+    },
+    {
+      "id": "film-056",
+      "category": "film",
+      "title": "Minions",
+      "year": 2015,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Minions — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Minions",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Minions",
+      "featured": false,
+      "added": "2026-05-03",
+      "video": "https://vidlink.pro/movie/211672",
+      "tmdbId": 211672
+    },
+    {
+      "id": "film-057",
+      "category": "film",
+      "title": "Despicable Me",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Despicable Me — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me",
+      "featured": false,
+      "added": "2026-04-04",
+      "video": "https://vidlink.pro/movie/20352",
+      "tmdbId": 20352
+    },
+    {
+      "id": "film-058",
+      "category": "film",
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Despicable Me 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me%202",
+      "featured": false,
+      "added": "2026-03-05",
+      "video": "https://vidlink.pro/movie/93456",
+      "tmdbId": 93456
+    },
+    {
+      "id": "film-059",
+      "category": "film",
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Despicable Me 3 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me%203",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me%203",
+      "featured": false,
+      "added": "2026-02-06",
+      "video": "https://vidlink.pro/movie/324852",
+      "tmdbId": 324852
+    },
+    {
+      "id": "film-060",
+      "category": "film",
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Despicable Me 4 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me%204",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Despicable%20Me%204",
+      "featured": false,
+      "added": "2026-11-07",
+      "video": "https://vidlink.pro/movie/519182",
+      "tmdbId": 519182
+    },
+    {
+      "id": "film-061",
+      "category": "film",
+      "title": "The Conjuring",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Conjuring — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Conjuring",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Conjuring",
+      "featured": false,
+      "added": "2026-10-08",
+      "video": "https://vidlink.pro/movie/138843",
+      "tmdbId": 138843
+    },
+    {
+      "id": "film-062",
+      "category": "film",
+      "title": "Annabelle",
+      "year": 2014,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Annabelle — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Annabelle",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Annabelle",
+      "featured": false,
+      "added": "2026-09-09",
+      "video": "https://vidlink.pro/movie/250546",
+      "tmdbId": 250546
+    },
+    {
+      "id": "film-063",
+      "category": "film",
+      "title": "Insidious",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Insidious — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Insidious",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Insidious",
+      "featured": false,
+      "added": "2026-08-10",
+      "video": "https://vidlink.pro/movie/49018",
+      "tmdbId": 49018
+    },
+    {
+      "id": "film-064",
+      "category": "film",
+      "title": "Smile",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Smile — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Smile",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Smile",
+      "featured": false,
+      "added": "2026-07-11",
+      "video": "https://vidlink.pro/movie/882598",
+      "tmdbId": 882598
+    },
+    {
+      "id": "film-065",
+      "category": "film",
+      "title": "Scream",
+      "year": 1996,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Scream — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Scream",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Scream",
+      "featured": false,
+      "added": "2026-06-12",
+      "video": "https://vidlink.pro/movie/4232",
+      "tmdbId": 4232
+    },
+    {
+      "id": "film-066",
+      "category": "film",
+      "title": "The Nun",
+      "year": 2018,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Nun — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Nun",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Nun",
+      "featured": false,
+      "added": "2026-05-13",
+      "video": "https://vidlink.pro/movie/439079",
+      "tmdbId": 439079
+    },
+    {
+      "id": "film-067",
+      "category": "film",
+      "title": "A Quiet Place",
+      "year": 2018,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "A Quiet Place — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=A%20Quiet%20Place",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=A%20Quiet%20Place",
+      "featured": false,
+      "added": "2026-04-14",
+      "video": "https://vidlink.pro/movie/447332",
+      "tmdbId": 447332
+    },
+    {
+      "id": "film-068",
+      "category": "film",
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Godzilla Minus One — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Godzilla%20Minus%20One",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Godzilla%20Minus%20One",
+      "featured": false,
+      "added": "2026-03-15",
+      "video": "https://vidlink.pro/movie/940721",
+      "tmdbId": 940721
+    },
+    {
+      "id": "film-069",
+      "category": "film",
+      "title": "Transformers One",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Transformers One — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Transformers%20One",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Transformers%20One",
+      "featured": false,
+      "added": "2026-02-16",
+      "video": "https://vidlink.pro/movie/698687",
+      "tmdbId": 698687
+    },
+    {
+      "id": "film-070",
+      "category": "film",
+      "title": "Mission: Impossible – Dead Reckoning",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Mission: Impossible – Dead Reckoning — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Mission%3A%20Impossible%20%E2%80%93%20Dead%20Reckoning",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Mission%3A%20Impossible%20%E2%80%93%20Dead%20Reckoning",
+      "featured": false,
+      "added": "2026-11-17",
+      "video": "https://vidlink.pro/movie/575264",
+      "tmdbId": 575264
+    },
+    {
+      "id": "film-071",
+      "category": "film",
+      "title": "Fast X",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Fast X — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Fast%20X",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Fast%20X",
+      "featured": false,
+      "added": "2026-10-18",
+      "video": "https://vidlink.pro/movie/385687",
+      "tmdbId": 385687
+    },
+    {
+      "id": "film-072",
+      "category": "film",
+      "title": "Furious 7",
+      "year": 2015,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Furious 7 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Furious%207",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Furious%207",
+      "featured": false,
+      "added": "2026-09-19",
+      "video": "https://vidlink.pro/movie/168259",
+      "tmdbId": 168259
+    },
+    {
+      "id": "film-073",
+      "category": "film",
+      "title": "The Meg",
+      "year": 2018,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Meg — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Meg",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Meg",
+      "featured": false,
+      "added": "2026-08-20",
+      "video": "https://vidlink.pro/movie/345940",
+      "tmdbId": 345940
+    },
+    {
+      "id": "film-074",
+      "category": "film",
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Jumanji: Welcome to the Jungle — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Jumanji%3A%20Welcome%20to%20the%20Jungle",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Jumanji%3A%20Welcome%20to%20the%20Jungle",
+      "featured": false,
+      "added": "2026-07-21",
+      "video": "https://vidlink.pro/movie/353486",
+      "tmdbId": 353486
+    },
+    {
+      "id": "film-075",
+      "category": "film",
+      "title": "Ready Player One",
+      "year": 2018,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Ready Player One — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Ready%20Player%20One",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Ready%20Player%20One",
+      "featured": false,
+      "added": "2026-06-22",
+      "video": "https://vidlink.pro/movie/333339",
+      "tmdbId": 333339
+    },
+    {
+      "id": "film-076",
+      "category": "film",
+      "title": "The Hunger Games",
+      "year": 2012,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Hunger Games — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Hunger%20Games",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Hunger%20Games",
+      "featured": false,
+      "added": "2026-05-23",
+      "video": "https://vidlink.pro/movie/70160",
+      "tmdbId": 70160
+    },
+    {
+      "id": "film-077",
+      "category": "film",
+      "title": "Catching Fire",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Catching Fire — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Catching%20Fire",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Catching%20Fire",
+      "featured": false,
+      "added": "2026-04-24",
+      "video": "https://vidlink.pro/movie/101299",
+      "tmdbId": 101299
+    },
+    {
+      "id": "film-078",
+      "category": "film",
+      "title": "Mockingjay Part 1",
+      "year": 2014,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Mockingjay Part 1 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Mockingjay%20Part%201",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Mockingjay%20Part%201",
+      "featured": false,
+      "added": "2026-03-25",
+      "video": "https://vidlink.pro/movie/131631",
+      "tmdbId": 131631
+    },
+    {
+      "id": "film-079",
+      "category": "film",
+      "title": "Mockingjay Part 2",
+      "year": 2015,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Mockingjay Part 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Mockingjay%20Part%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Mockingjay%20Part%202",
+      "featured": false,
+      "added": "2026-02-26",
+      "video": "https://vidlink.pro/movie/131634",
+      "tmdbId": 131634
+    },
+    {
+      "id": "film-080",
+      "category": "film",
+      "title": "Twilight",
+      "year": 2008,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Twilight — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Twilight",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Twilight",
+      "featured": false,
+      "added": "2026-11-27",
+      "video": "https://vidlink.pro/movie/8966",
+      "tmdbId": 8966
+    },
+    {
+      "id": "film-081",
+      "category": "film",
+      "title": "New Moon",
+      "year": 2009,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "New Moon — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=New%20Moon",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=New%20Moon",
+      "featured": false,
+      "added": "2026-10-01",
+      "video": "https://vidlink.pro/movie/18239",
+      "tmdbId": 18239
+    },
+    {
+      "id": "film-082",
+      "category": "film",
+      "title": "Eclipse",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Eclipse — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Eclipse",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Eclipse",
+      "featured": false,
+      "added": "2026-09-02",
+      "video": "https://vidlink.pro/movie/24021",
+      "tmdbId": 24021
+    },
+    {
+      "id": "film-083",
+      "category": "film",
+      "title": "Breaking Dawn Part 1",
+      "year": 2011,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Breaking Dawn Part 1 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Breaking%20Dawn%20Part%201",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Breaking%20Dawn%20Part%201",
+      "featured": false,
+      "added": "2026-08-03",
+      "video": "https://vidlink.pro/movie/50619",
+      "tmdbId": 50619
+    },
+    {
+      "id": "film-084",
+      "category": "film",
+      "title": "Breaking Dawn Part 2",
+      "year": 2012,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Breaking Dawn Part 2 — detail film dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Breaking%20Dawn%20Part%202",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Breaking%20Dawn%20Part%202",
+      "featured": false,
+      "added": "2026-07-04",
+      "video": "https://vidlink.pro/movie/50620",
+      "tmdbId": 50620
+    },
+    {
+      "id": "serial-001",
+      "category": "serial",
+      "title": "Breaking Bad",
+      "year": 2008,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Breaking Bad — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Breaking%20Bad",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Breaking%20Bad",
+      "featured": false,
+      "added": "2026-10-02",
+      "tmdbId": 1396,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1396/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-002",
+      "category": "serial",
+      "title": "Game of Thrones",
+      "year": 2011,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Game of Thrones — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Game%20of%20Thrones",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Game%20of%20Thrones",
+      "featured": false,
+      "added": "2026-09-03",
+      "tmdbId": 1399,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1399/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-003",
+      "category": "serial",
+      "title": "Stranger Things",
+      "year": 2016,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Stranger Things — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Stranger%20Things",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Stranger%20Things",
+      "featured": false,
+      "added": "2026-08-04",
+      "tmdbId": 66732,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/66732/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-004",
+      "category": "serial",
+      "title": "The Walking Dead",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Walking Dead — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Walking%20Dead",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Walking%20Dead",
+      "featured": false,
+      "added": "2026-07-05",
+      "tmdbId": 1402,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1402/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-005",
+      "category": "serial",
+      "title": "The Last of Us",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Last of Us — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Last%20of%20Us",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Last%20of%20Us",
+      "featured": false,
+      "added": "2026-06-06",
+      "tmdbId": 100088,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/100088/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-006",
+      "category": "serial",
+      "title": "Wednesday",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Wednesday — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Wednesday",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Wednesday",
+      "featured": false,
+      "added": "2026-05-07",
+      "tmdbId": 119051,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/119051/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-007",
+      "category": "serial",
+      "title": "Squid Game",
+      "year": 2021,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Squid Game — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Squid%20Game",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Squid%20Game",
+      "featured": false,
+      "added": "2026-04-08",
+      "tmdbId": 93405,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/93405/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-008",
+      "category": "serial",
+      "title": "Money Heist",
+      "year": 2017,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Money Heist — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Money%20Heist",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Money%20Heist",
+      "featured": false,
+      "added": "2026-03-09",
+      "tmdbId": 71446,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/71446/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-009",
+      "category": "serial",
+      "title": "The Boys",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Boys — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Boys",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Boys",
+      "featured": false,
+      "added": "2026-02-10",
+      "tmdbId": 76479,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/76479/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-010",
+      "category": "serial",
+      "title": "Loki",
+      "year": 2021,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Loki — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Loki",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Loki",
+      "featured": false,
+      "added": "2026-11-11",
+      "tmdbId": 84958,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/84958/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-011",
+      "category": "serial",
+      "title": "WandaVision",
+      "year": 2021,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "WandaVision — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=WandaVision",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=WandaVision",
+      "featured": false,
+      "added": "2026-10-12",
+      "tmdbId": 85271,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/85271/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-012",
+      "category": "serial",
+      "title": "Moon Knight",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Moon Knight — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Moon%20Knight",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Moon%20Knight",
+      "featured": false,
+      "added": "2026-09-13",
+      "tmdbId": 92749,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/92749/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-013",
+      "category": "serial",
+      "title": "Daredevil",
+      "year": 2015,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Daredevil — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Daredevil",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Daredevil",
+      "featured": false,
+      "added": "2026-08-14",
+      "tmdbId": 61889,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/61889/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-014",
+      "category": "serial",
+      "title": "The Mandalorian",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Mandalorian — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Mandalorian",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Mandalorian",
+      "featured": false,
+      "added": "2026-07-15",
+      "tmdbId": 82856,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/82856/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-015",
+      "category": "serial",
+      "title": "One Piece Live Action",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "One Piece Live Action — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=One%20Piece%20Live%20Action",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=One%20Piece%20Live%20Action",
+      "featured": false,
+      "added": "2026-06-16",
+      "tmdbId": 111110,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/111110/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-016",
+      "category": "serial",
+      "title": "Rick and Morty",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Rick and Morty — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Rick%20and%20Morty",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Rick%20and%20Morty",
+      "featured": false,
+      "added": "2026-05-17",
+      "tmdbId": 60625,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/60625/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-017",
+      "category": "serial",
+      "title": "The Simpsons",
+      "year": 1989,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Simpsons — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Simpsons",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Simpsons",
+      "featured": false,
+      "added": "2026-04-18",
+      "tmdbId": 456,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/456/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-018",
+      "category": "serial",
+      "title": "Friends",
+      "year": 1994,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Friends — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Friends",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Friends",
+      "featured": false,
+      "added": "2026-03-19",
+      "tmdbId": 1668,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1668/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-019",
+      "category": "serial",
+      "title": "The Office US",
+      "year": 2005,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Office US — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Office%20US",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Office%20US",
+      "featured": false,
+      "added": "2026-02-20",
+      "tmdbId": 2316,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/2316/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-020",
+      "category": "serial",
+      "title": "Sherlock",
+      "year": 2010,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Sherlock — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Sherlock",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Sherlock",
+      "featured": false,
+      "added": "2026-11-21",
+      "tmdbId": 19885,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/19885/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-021",
+      "category": "serial",
+      "title": "Peaky Blinders",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Peaky Blinders — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Peaky%20Blinders",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Peaky%20Blinders",
+      "featured": false,
+      "added": "2026-10-22",
+      "tmdbId": 60574,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/60574/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-022",
+      "category": "serial",
+      "title": "The Witcher",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Witcher — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Witcher",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Witcher",
+      "featured": false,
+      "added": "2026-09-23",
+      "tmdbId": 71912,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/71912/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-023",
+      "category": "serial",
+      "title": "The Flash",
+      "year": 2014,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "The Flash — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Flash",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=The%20Flash",
+      "featured": false,
+      "added": "2026-08-24",
+      "tmdbId": 60735,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/60735/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-024",
+      "category": "serial",
+      "title": "Arrow",
+      "year": 2012,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Arrow — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Arrow",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Arrow",
+      "featured": false,
+      "added": "2026-07-25",
+      "tmdbId": 1412,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1412/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-025",
+      "category": "serial",
+      "title": "Supernatural",
+      "year": 2005,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Supernatural — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Supernatural",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Supernatural",
+      "featured": false,
+      "added": "2026-06-26",
+      "tmdbId": 1622,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1622/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "serial-026",
+      "category": "serial",
+      "title": "House of the Dragon",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "House of the Dragon — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=House%20of%20the%20Dragon",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=House%20of%20the%20Dragon",
+      "featured": false,
+      "added": "2026-05-27",
+      "tmdbId": 94997,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/94997/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-001",
+      "category": "anime",
+      "title": "Naruto",
+      "year": 2002,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Naruto — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Naruto",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Naruto",
+      "featured": false,
+      "added": "2026-10-02",
+      "tmdbId": 46260,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/46260/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-002",
+      "category": "anime",
+      "title": "One Piece",
+      "year": 1999,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "One Piece — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=One%20Piece",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=One%20Piece",
+      "featured": false,
+      "added": "2026-09-03",
+      "tmdbId": 37854,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/37854/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-003",
+      "category": "anime",
+      "title": "Attack on Titan",
+      "year": 2013,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Attack on Titan — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Attack%20on%20Titan",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Attack%20on%20Titan",
+      "featured": false,
+      "added": "2026-08-04",
+      "tmdbId": 1429,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/1429/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-004",
+      "category": "anime",
+      "title": "Demon Slayer",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Demon Slayer — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Demon%20Slayer",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Demon%20Slayer",
+      "featured": false,
+      "added": "2026-07-05",
+      "tmdbId": 85937,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/85937/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-005",
+      "category": "anime",
+      "title": "Jujutsu Kaisen",
+      "year": 2020,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Jujutsu Kaisen — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Jujutsu%20Kaisen",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Jujutsu%20Kaisen",
+      "featured": false,
+      "added": "2026-06-06",
+      "tmdbId": 95479,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/95479/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-006",
+      "category": "anime",
+      "title": "Death Note",
+      "year": 2006,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Death Note — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Death%20Note",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Death%20Note",
+      "featured": false,
+      "added": "2026-05-07",
+      "tmdbId": 13916,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/13916/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-007",
+      "category": "anime",
+      "title": "Fullmetal Alchemist Brotherhood",
+      "year": 2009,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Fullmetal Alchemist Brotherhood — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Fullmetal%20Alchemist%20Brotherhood",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Fullmetal%20Alchemist%20Brotherhood",
+      "featured": false,
+      "added": "2026-04-08",
+      "tmdbId": 31911,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/31911/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-008",
+      "category": "anime",
+      "title": "Dragon Ball Z",
+      "year": 1989,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Dragon Ball Z — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Dragon%20Ball%20Z",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Dragon%20Ball%20Z",
+      "featured": false,
+      "added": "2026-03-09",
+      "tmdbId": 12971,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/12971/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-009",
+      "category": "anime",
+      "title": "Bleach",
+      "year": 2004,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Bleach — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Bleach",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Bleach",
+      "featured": false,
+      "added": "2026-02-10",
+      "tmdbId": 30984,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/30984/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-010",
+      "category": "anime",
+      "title": "My Hero Academia",
+      "year": 2016,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "My Hero Academia — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=My%20Hero%20Academia",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=My%20Hero%20Academia",
+      "featured": false,
+      "added": "2026-11-11",
+      "tmdbId": 65930,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/65930/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-011",
+      "category": "anime",
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Chainsaw Man — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Chainsaw%20Man",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Chainsaw%20Man",
+      "featured": false,
+      "added": "2026-10-12",
+      "tmdbId": 114410,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/114410/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-012",
+      "category": "anime",
+      "title": "Spy x Family",
+      "year": 2022,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Spy x Family — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Spy%20x%20Family",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Spy%20x%20Family",
+      "featured": false,
+      "added": "2026-09-13",
+      "tmdbId": 120089,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/120089/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-013",
+      "category": "anime",
+      "title": "Solo Leveling",
+      "year": 2024,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Solo Leveling — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Solo%20Leveling",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Solo%20Leveling",
+      "featured": false,
+      "added": "2026-08-14",
+      "tmdbId": 127532,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/127532/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-014",
+      "category": "anime",
+      "title": "Frieren Beyond Journey End",
+      "year": 2023,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Frieren Beyond Journey End — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Frieren%20Beyond%20Journey%20End",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Frieren%20Beyond%20Journey%20End",
+      "featured": false,
+      "added": "2026-07-15",
+      "tmdbId": 209867,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/209867/1/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime-015",
+      "category": "anime",
+      "title": "Vinland Saga",
+      "year": 2019,
+      "duration": 0,
+      "genres": [],
+      "synopsis": "Vinland Saga — detail serial dapat dilengkapi dari TMDB.",
+      "poster": "https://placehold.co/500x750/111827/F9FAFB?text=Vinland%20Saga",
+      "backdrop": "https://placehold.co/500x750/111827/F9FAFB?text=Vinland%20Saga",
+      "featured": false,
+      "added": "2026-06-16",
+      "tmdbId": 88803,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Musim 1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "video": "https://vidlink.pro/tv/88803/1/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
